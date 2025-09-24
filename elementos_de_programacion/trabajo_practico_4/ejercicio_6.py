@@ -13,7 +13,7 @@ if operador == '+':
     print(f"Suma: {numero_1} + {numero_2} = {suma}")
 elif operador == '-':
     resta = numero_1 - numero_2
-    print(f"Resta: {numero_1} + {numero_2} = {resta}")
+    print(f"Resta: {numero_1} - {numero_2} = {resta}")
 elif operador == '*':
     producto = numero_1 * numero_2
     print(f"Producto: {numero_1} * {numero_2} = {producto}")
