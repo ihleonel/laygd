@@ -1,0 +1,3 @@
+ocupaciones: ocupacion_1, ocupacion_2, ocupacion_3, ocupacion_4, ocupacion_5
+signo zodiacal: signo_1, signo_2, signo_3, signo_4, signo_5
+cualidades especiales: cualidad_1, cualidad_2, cualidad_3, cualidad_4, cualidad_5
