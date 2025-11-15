@@ -1,5 +1,0 @@
-Nombre: nombre
-Apellido: apellido
-ocupaciones:  ocupacion_2
-signo zodiacal:  signo_1
-cualidades especiales:  cualidad_5
