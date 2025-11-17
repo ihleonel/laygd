@@ -1,0 +1,2 @@
+nombre=Peter Parker
+categorias=Superpoder: Leer mentes,Efecto Secundario: Cambia a una voz chillona,Debilidad: El superpoder fracasa si tiene hambre,
